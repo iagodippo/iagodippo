@@ -1,0 +1,3 @@
+- 👋 Olá, eu sou o Iago!
+- 👀 Tenho interesse em aprender mais sobre back-end e API's, principalmente utilizando .NET.
+- 📞 Se quiser me bater um papo, fique a vontade para me chamar no LinkedIn (iagodippolito) ou Instagram (iago.dippolito).
