@@ -1,7 +1,7 @@
 🇧🇷
 - 👋 Olá, eu sou o Iago e tenho 25 anos.
 - 👀 Tenho interesse em aprender mais sobre back-end e API's, principalmente utilizando .NET. Mas também me interesso por Python e Ciência de Dados!
-- 📞 Se você gostou de mim, gostou do meu trabalho ou simplesmente quer bater um papo, fique à vontade para me encontrar no LinkedIn (iagodippolito) ou Instagram (iago.dippolito).
+- 📞 Se você gostou de mim, gostou do meu trabalho ou simplesmente quer bater um papo, fique à vontade para me encontrar no LinkedIn ou Instagram.
 
 🇺🇸
 - 👋 Hi, my name is Iago and I'm 25 years old.
