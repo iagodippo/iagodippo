@@ -2,7 +2,7 @@
   <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="215"/>
 </p>
 <hr>
-<h1 align="center">Sou o <a href="https://github.com/iagodippo">Iago D'Ippolito<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<h1 align="center">Olá, sou o <a href="https://github.com/iagodippo">Iago D'Ippolito<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
 <Br>
 
 🇧🇷
