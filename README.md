@@ -1,11 +1,20 @@
+<p align="center">
+  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+</p>
+<hr>
+<h1 align="center">Sou o <a href="https://github.com/iagodippo">Iago D'Ippolito<a><img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
+<Br>
+
 🇧🇷
-- 👋 Olá, eu sou o Iago e tenho 25 anos.
-- 👀 Tenho interesse em aprender mais sobre back-end e API's, principalmente utilizando .NET. Mas também me interesso por Python e Ciência de Dados!
+- 👋 Meu nome é Iago, tenho 25 anos e moro em Curitiba, Brasil!
+- 💪 Atualmente, sou estagiário de desemvolvimento de software e trabalho com C#, .NET e PostgreSQL.
+- 👀 Tenho interesse em aprender mais sobre back-end e API's, principalmente utilizando .NET Framework. Mas também me interesso por Python e Ciência de Dados!
 - 📞 Se você gostou de mim, gostou do meu trabalho ou simplesmente quer bater um papo, fique à vontade para me encontrar no LinkedIn ou Instagram.
 
 🇺🇸
-- 👋 Hi, my name is Iago and I'm 25 years old.
-- 👀 I'm interested in learning more about back-end development and API's, mainly using .NET. But I'm also interested in Python and Data Science!
+- 👋 My name is Iago, I'm 25 years old and I live in Curitiba, Brasil!
+- 💪 I'm currently a software development intern, working with C#, .NET and PostgreSQL.
+- 👀 I'm interested in learning more about back-end development and API's, mainly using .NET Framework. But I'm also interested in Python and Data Science!
 - 📞 If you liked me, liked my job or simply want to chat, feel free to find me on LinkedIn or Instagram.
 <br></br>
 <div> 
