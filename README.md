@@ -6,14 +6,14 @@
 <Br>
 
 🇧🇷
-- 👋 Meu nome é Iago, tenho 25 anos e moro em Curitiba, Brasil!
-- 💪 Atualmente, sou estagiário de desemvolvimento de software e trabalho com C#, .NET e PostgreSQL.
+- 👋 Meu nome é Iago, tenho 26 anos e moro em Curitiba, Brasil!
+- 💪 Atualmente, sou desenvolvedor de software e trabalho com C#, .NET e PostgreSQL.
 - 👀 Tenho interesse em aprender mais sobre back-end e API's, principalmente utilizando .NET Framework. Mas também me interesso por Python e Ciência de Dados!
 - 📞 Se você gostou de mim, gostou do meu trabalho ou simplesmente quer bater um papo, fique à vontade para me encontrar no LinkedIn ou Instagram.
 
 🇺🇸
-- 👋 My name is Iago, I'm 25 years old and I live in Curitiba, Brasil!
-- 💪 I'm currently a software development intern, working with C#, .NET and PostgreSQL.
+- 👋 My name is Iago, I'm 26 years old and I live in Curitiba, Brasil!
+- 💪 I'm currently a software developer, working with C#, .NET and PostgreSQL.
 - 👀 I'm interested in learning more about back-end development and API's, mainly using .NET Framework. But I'm also interested in Python and Data Science!
 - 📞 If you liked me, liked my job or simply want to chat, feel free to find me on LinkedIn or Instagram.
 <br></br>
