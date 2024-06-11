@@ -6,12 +6,12 @@
 <Br>
 
 🇧🇷
-- 👋 Meu nome é Iago, tenho 27 anos e moro em Curitiba, Brasil!
+- 👋 Meu nome é Iago, tenho 28 anos e moro em Curitiba, Brasil!
 - 💪 Atualmente, sou desenvolvedor de software e trabalho com C#, .NET e PostgreSQL.
 - 👀 Tenho interesse em aprender mais sobre back-end e API's, principalmente utilizando .NET.
 
 🇺🇸
-- 👋 My name is Iago, I'm 27 years old and I live in Curitiba, Brasil!
+- 👋 My name is Iago, I'm 28 years old and I live in Curitiba, Brasil!
 - 💪 I'm currently a software developer, working with C#, .NET and PostgreSQL.
 - 👀 I'm interested in learning more about back-end development and API's, mainly using .NET.
   
